@@ -71,7 +71,7 @@ Cara menjalankan prototype secara lokal:
 streamlit run app.py
 
 Link untuk menjalankan prototype di Streamlit Cloud:
-🚀 Akses Aplikasi Prediksi Dropout Mahasiswa
+🚀 [https://dropout-app-wkmapppktbbhvxglvxhgnrl.streamlit.app/]
 
 ## Conclusion
 
