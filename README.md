@@ -36,7 +36,10 @@ Admission_grade, Previous_qualification_grade, Age_at_enrollment, dsb.
 
 Setup environment:
 ```
-
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
 ```
 
 ## Business Dashboard
